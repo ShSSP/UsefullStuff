@@ -1,0 +1,44 @@
+Програмирование
+    https://www.codewars.com/ - Изучение программирования
+    https://codecombat.com/ - Изучение программирования
+    https://ulearn.me/ - Изучение программирования
+    https://imgbb.com/ - Сохранение изображений в облаке
+    http://placehold.it/32x32 - Получить изображение заданого размера
+    https://picsum.photos/300/300 - Получить изображение заданого размера    
+    https://www.flaticon.com/ - Иконки для сайтов
+
+Программы висуализации
+    https://excalidraw.com/ - Рисовать онлайн
+    https://miro.com/ - Онлайн доска
+
+Картинки для свободного использования
+    https://unsplash.com/
+
+Продвижение сайтов
+    Позиция сайта в поиске
+        https://be1.ru/position-yandex-google/
+    Реклама сайта / Биржы ссылок (продвижение через ссылки)
+        https://www.sape.ru/
+        https://www.miralinks.ru/ 
+        https://seopult.ru/ref/94a88e55ec1180c6
+    1️⃣ Добавить свой сайт в Яндекс https://webmaster.yandex.ru/    
+    Справка по вебмастеру - https://yandex.ru/support/webmaster/
+    2️⃣ Добавить свой сайт в Гугл https://www.google.com/webmasters/too...
+    3️⃣ Яндекс ВордСтат https://wordstat.yandex.ru/
+    4️⃣ Google Keywords Planner https://adwords.google.com/home/tools...
+    5️⃣ Блог о СЕО http://ktonanovenkogo.ru/
+    6️⃣ Статья https://texterra.ru/blog/kak-sostavit...
+    7️⃣ Статья https://netpeak.net/ru/blog/kak-sosta...
+    8️⃣ Статья https://seoprofy.ua/blog/optimizaciya...
+    9️⃣ Статья https://www.rookee.ru/faq/article/cht...
+
+Шпаргалка
+    ООП - https://tproger.ru/translations/oop-principles-cheatsheet/
+
+Учебники
+    JS - https://learn.javascript.ru/prototype-inheritance
+    C# - https://ulearn.me
+    HTML/CSS - https://htmlbook.ru
+
+
+
