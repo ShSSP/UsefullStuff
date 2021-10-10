@@ -7,6 +7,16 @@
     https://picsum.photos/300/300 - Получить изображение заданого размера    
     https://www.flaticon.com/ - Иконки для сайтов
 
+Расширения для Visual Studio
+    Проверка орфографии
+        https://www.devowl.net/2017/11/visual-studio-spell-check-for-strings-and-comments.html
+    Тестирование
+        NUnit 3 Test Adapter
+        ReSharper
+
+Nuget
+    FluentAssertion
+
 Программы висуализации
     https://excalidraw.com/ - Рисовать онлайн
     https://miro.com/ - Онлайн доска
