@@ -4,8 +4,9 @@
     https://ulearn.me/ - Изучение программирования
     https://imgbb.com/ - Сохранение изображений в облаке
     http://placehold.it/32x32 - Получить изображение заданого размера
-    https://picsum.photos/300/300 - Получить изображение заданого размера    
+    https://picsum.photos/300/300 - Получить изображение заданого размера
     https://www.flaticon.com/ - Иконки для сайтов
+    https://resizeimage.net/ - изменение размера
 
 Расширения для Visual Studio
     Проверка орфографии
@@ -25,6 +26,7 @@ Nuget
     https://unsplash.com/ - изображения
     https://www.flaticon.com/ - иконки
     https://icons8.com/ - иконки
+    https://resizeimage.net/ - изменение размера
 
 Продвижение сайтов
     Позиция сайта в поиске
