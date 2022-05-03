@@ -1,4 +1,10 @@
 Програмирование
+    https://adventofcode.com - маленькие задачки
+    https://codingame.com - код игры
+        - Puzzles: Easy, Medium - задачки
+        - Clash of Code - Мини турниры
+    http://stepik.org/course/95/syllabus - Курс матана
+    http://e-maxx.ru/algo/ - реализация разных алгоритмов
     https://www.codewars.com/ - Изучение программирования
     https://codecombat.com/ - Изучение программирования
     https://ulearn.me/ - Изучение программирования
@@ -9,11 +15,21 @@
     https://resizeimage.net/ - изменение размера
 
 Расширения для Visual Studio
-    Проверка орфографии
-        https://www.devowl.net/2017/11/visual-studio-spell-check-for-strings-and-comments.html
-    Тестирование
-        NUnit 3 Test Adapter
-        ReSharper
+    ReSharper
+    Visual Studio Spell Checker - Проверка орфографии
+    Image Optimizer - Оптимизация изображений
+    Add New File - Упрощенное добавление файлов
+    NUnit 3 Test Adapter - Тестирование
+    CodeMaid - ХЗ
+
+Настройки для Visual Studio
+    Tools > Options > Projects and Solutions > Track Active Item in Solution Explorer
+    Tools > Options > Text Editor > All Languages > Scroll Bars > Use map mode for vertical scroll bar
+
+Редакторы изображений pdf
+    https://www.remove.bg/ - удаление фона изображений
+    https://www.sejda.com/pdf-editor - pdf редактор
+    https://www.ilovepdf.com/pdf_to_jpg - Convert PDF to JPG
 
 Nuget
     FluentAssertion
@@ -27,6 +43,11 @@ Nuget
     https://www.flaticon.com/ - иконки
     https://icons8.com/ - иконки
     https://resizeimage.net/ - изменение размера
+
+Нейросети
+    https://www.artbreeder.com/ - комбинит картинки
+    https://www.nvidia.com/en-us/research/ai-playground/ - создание фонов
+    https://www.topazlabs.com/gigapixel-ai - увеличение изображений
 
 Продвижение сайтов
     Позиция сайта в поиске
@@ -55,4 +76,12 @@ Nuget
     HTML/CSS - https://htmlbook.ru
 
 
+База знаний от Контура
+    https://github.com/skbkontur/dotEducation
 
+
+Тимлидинг
+    http://merm.ru/advroom/questions/questions_476.html - Постановка целей
+    
+English
+    https://poliglot16.ru/zapominit-nepravilnye-glagoly/ - Irregular verbs(by groups + tests)
